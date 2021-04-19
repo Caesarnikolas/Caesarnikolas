@@ -20,8 +20,8 @@
 [![Canva](https://img.shields.io/badge/Canva%20-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white/)]
 [![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)]
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]
-[![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)]
-[![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)]
+![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)
 
 
 
